@@ -1,0 +1,9 @@
+.place__paragraph-end {
+    padding-top: 6px;
+}
+
+@media (max-width:768px){
+    .place__paragraph-end{
+        line-height: 26.5px;
+    }
+}

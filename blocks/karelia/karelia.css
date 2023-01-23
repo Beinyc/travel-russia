@@ -1,0 +1,11 @@
+@media (max-width:768px){
+    .karelia {
+        padding-top: 4px;
+    }
+}
+
+@media (max-width:320px){
+    .karelia {
+        padding-top: 59px;
+    }
+}

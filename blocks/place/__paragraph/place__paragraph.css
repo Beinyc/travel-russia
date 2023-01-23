@@ -1,0 +1,36 @@
+.place__paragraph {
+    margin: 0;
+    max-width: 484px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    color: white;
+    padding-top: 25px;
+    grid-area: places__paragraph;
+    font-style: normal;
+    padding-left: 6px;
+}
+
+@media (max-width:1024px){
+    .place__paragraph{
+        padding-left: 5px;
+    }
+}
+
+@media (max-width:768px){
+    .place__paragraph{
+        font-size: 16px;
+        padding-left: 8px;
+        padding-top: 23px;
+        line-height: 27px;
+    }
+}
+
+@media (max-width:320px){
+    .place__paragraph{
+        padding-top: 16px;
+        padding-left: 17px;
+        line-height: 26px;
+        max-width: 288px;
+    }
+}
