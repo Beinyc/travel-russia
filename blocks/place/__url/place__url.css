@@ -7,13 +7,8 @@
   color: #AAAAAA;
   font-style: normal;
   padding-left: 5px;
-}
-
-@media (max-width:1024px){
-  .place__url{
-    padding-bottom: 18px;
-    padding-left: 8px;
-  }
+  letter-spacing: 2px;
+  text-transform: uppercase
 }
 
 @media (max-width:768px){

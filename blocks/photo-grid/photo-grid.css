@@ -8,7 +8,7 @@
     margin-top: 92px;
 }
 
-@media (max-width:1182px) {
+@media (max-width:1203px) {
     .photo-grid {
         max-width: 930px;
         grid-template-columns:repeat(auto-fit, minmax(220px,1fr));
@@ -20,7 +20,6 @@
     .photo-grid {
         max-width: 928px;
         grid-template-columns:repeat(auto-fit, minmax(284px,1fr));
-        grid-gap: 14px;  
     }
 }
 

@@ -10,9 +10,10 @@
     font-style: normal;
 }
 
-@media (max-width:665px){
+@media (max-width:768px){
     .intro__text {
-        padding-bottom: 80px;
+        max-width: 741px;
+        padding-bottom: 31px;
     }
 }
 

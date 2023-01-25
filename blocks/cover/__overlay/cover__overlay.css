@@ -34,7 +34,6 @@
 @media (max-width:1024px){
     .cover__overlay{
             min-height: 635px;
-            background-size: cover;
             
     }
 }
@@ -42,7 +41,6 @@
 @media (max-width:768px){
     .cover__overlay{
             min-height: 485px;
-            background-size: cover;
             
     }
 }
@@ -50,7 +48,6 @@
 @media (max-width:540px){
     .cover__overlay{
             min-height: 350px;
-            background-size: cover;
             
     }
 }
@@ -58,7 +55,6 @@
 @media (max-width:320px){
     .cover__overlay{
             min-height: 200px;
-            background-size: cover;
             
     }
 }

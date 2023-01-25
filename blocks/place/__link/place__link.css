@@ -6,12 +6,6 @@
     padding-left: 5px;
 }
 
-@media (max-width:1024px){
-    .place__link{
-        padding-left: 8px;
-    }
-}
-
 @media (max-width:768px){
     .place__link{
         padding-left: 0px;

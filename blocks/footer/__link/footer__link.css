@@ -20,15 +20,12 @@
 
 @media (max-width:475px){
     .footer__link{
-        flex-direction: column;
-        gap: 32px;
         padding-left: 16px;
     }
 }
 
 @media (max-width:320px){
     .footer__link{
-        flex-direction: column;
         gap: 38px;
         padding-left: 16px;
         font-size: 24px;
