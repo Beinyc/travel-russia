@@ -1,9 +1,3 @@
 .lead__image {
     max-width: 100%;
  }
- 
- @media (max-width: 320px){
-    .lead__image {
-        padding-top: 0px;  
-    }
- }

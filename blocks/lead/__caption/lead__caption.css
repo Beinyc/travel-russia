@@ -25,7 +25,6 @@
 
 @media (max-width:320px){
     .lead__caption {
-        padding-top: 6px;
         padding-left: 15px;
     }
 }

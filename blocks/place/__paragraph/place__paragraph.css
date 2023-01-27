@@ -12,7 +12,7 @@
 
 @media (max-width:1024px){
     .place__paragraph{
-        padding-left: 5px;
+        padding-top: 27px;
     }
 }
 
@@ -30,7 +30,6 @@
     .place__paragraph{
         padding-top: 14px;
         padding-left: 8px;
-        line-height: 26px;
         max-width: 288px;
     }
 }

@@ -20,8 +20,6 @@
 @media (max-width:475px){
     .cover__title{
         line-height: 35px;
-        font-style: normal;
-        font-weight: 900;
         font-size: 32px; 
     }
 }
@@ -29,10 +27,6 @@
 @media (max-width:320px){
     .cover__title{
         max-width: 234px;
-        padding: 0px;
-        padding-bottom: 13px;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 32px;
+        padding: 0;
     }
 }

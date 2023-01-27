@@ -10,7 +10,6 @@
 @media (max-width:1024px){
     .footer{
      max-width: 928px;
-     padding-top: 0px;
      margin-top: 97px;
     }
 }
@@ -18,7 +17,7 @@
 @media (max-width:768px){
     .footer{
      max-width: 720px;
-     margin-top: 87px;
+     margin-top: 90px;
     }
 }
 
@@ -32,9 +31,7 @@
 
 @media (max-width:320px){
     .footer{
-     display: block;
      margin-top: 0;
      padding-top: 66px;
-     padding-bottom: 24px;
     }
 }
